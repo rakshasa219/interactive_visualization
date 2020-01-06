@@ -4,7 +4,7 @@
 - [近年全球各地区自杀率](https://github.com/rakshasa219/interactive_visualization/blob/master/suiciderate5.csv)➡[GHDX](http://ghdx.healthdata.org/gbd-results-tool)(Global Health Data Excharge)
 - [全球阳光日照率地区分布](https://github.com/rakshasa219/interactive_visualization/blob/master/sun.csv)➡[UNdata](http://data.un.org/)(United Nations Data)
 - [近年全球分年龄段自杀率](https://github.com/rakshasa219/interactive_visualization/blob/master/compare.csv)➡[UNDP](http://hdr.undp.org/en/data)(United Nations Development Programme)
-- [近年全球分性别自杀率](https://github.com/rakshasa219/interactive_visualization/blob/master/suicidebysex.csv)➡[GHDX](http://ghdx.healthdata.org/gbd-results-tool)(Global Health Data Excharge)
+- [近年全球分性别自杀率](https://github.com/rakshasa219/interactive_visualization/blob/master/suicidebysex.csv)➡[GHDX](http://ghdx.healthdata.org/gbd-results-tool)(Global Health Data Exchange)
 - [近年全球男女劳动参与率](https://github.com/rakshasa219/interactive_visualization/blob/master/work.csv)➡[WorldBank](https://data.worldbank.org/)
 
 #### 2 数据分析内容
