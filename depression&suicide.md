@@ -1,35 +1,18 @@
-# Interactive-data-visualization
+# 交互数据可视化
 
-#### 所需数据
-- 全球自杀人口数各地区分布
-- 全球抑郁症人口数地区分布
-- 全球女性抑郁症人数地区分布
-- 针对女性的暴力发生率地区分布
+#### 1 所用到的数据以及数据来源网站(点击可查看数据与数据来源数据库)
+- [近年全球各地区自杀率](https://github.com/rakshasa219/interactive_visualization/blob/master/suiciderate5.csv)➡[GHDX](http://ghdx.healthdata.org/gbd-results-tool)(Global Health Data Excharge)
+- [全球阳光日照率地区分布](https://github.com/rakshasa219/interactive_visualization/blob/master/sun.csv)➡[UNdata](http://data.un.org/)(United Nations Data)
+- [近年全球分年龄段自杀率](https://github.com/rakshasa219/interactive_visualization/blob/master/compare.csv)➡[UNDP](http://hdr.undp.org/en/data)(United Nations Development Programme)
+- [近年全球分性别自杀率](https://github.com/rakshasa219/interactive_visualization/blob/master/suicidebysex.csv)➡[GHDX](http://ghdx.healthdata.org/gbd-results-tool)(Global Health Data Excharge)
+- [近年全球男女劳动参与率](https://github.com/rakshasa219/interactive_visualization/blob/master/work.csv)➡[WorldBank](https://data.worldbank.org/)
 
-#### 数据来源
-+ 世界银行
-+ 世界卫生组织
-+ 数据世界
-+ 人类发展数据
+#### 2 数据分析内容
+- 分析全球自杀人口数各地区分布与各地区阳光日照率分布相关性
+- 分析全球分年龄段自杀率与自杀可能性原因
+- 分析全球性别自杀率与男女劳动参与率相关性
 
-#### 数据分析内容
-1. 分析全球自杀人口数各地区分布与各地区抑郁症人口数分布相关性
-
-2. 分析全球女性抑郁症人数分布与针对女性的暴力发生率地区分布相关性
-
-3.全球抑郁症年龄分布（待定）
-
-#### 研究目的
-
-1. 研究自杀率高的国家是否抑郁症人数相对高。
-
-2. 探究女性抑郁症是否与针对女性的暴力发生有关。
-
-#### 我会什么
-- 寻找数据并进行数据清洗
-- 基本的ploty操作做出可视化图表
-
-#### 我希望你会什么
-- pythonanywhere部署
-- 数据迭代
-- flask
+#### 3 数据故事与代码图表 【[点击查看](http://nfunm171043007.gitee.io/interactive_visual_final/)】
+- 使用Pyecharts与Ploty模块整合外观样式
+#### 4 pythonanywhere部署网址 【[点击查看](http://qswing.pythonanywhere.com/)】
+- 使用CSS样式对页面进行外观修饰【[CSS文件查看](https://github.com/rakshasa219/interactive_visualization/blob/master/hf.css)】
