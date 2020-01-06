@@ -1,0 +1,43 @@
+body {
+  font-family:      Verdana, Geneva, Arial, sans-serif;
+  font-size:        medium;
+  background-color: lightblue;
+}
+title{
+  text-align: center;
+}
+/*h2 {*/
+/*  font-size:        150%;*/
+/*}*/
+
+table {
+  margin-left:      20px;
+  margin-right:     20px;
+  caption-side:     bottom;
+  border-collapse:  collapse;
+}
+
+td, th {
+  padding:          5px;
+  text-align:       left;
+}
+
+
+** Tables **
+
+table {
+font-size:          1em;
+background-color:   #fafcff;
+border:             1px solid #909090;
+color:              mediumpurple;
+padding:            5px 5px 2px;
+border-collapse:    collapse;
+}
+
+td, th {
+border:             thin dotted gray;
+}
+
+select {
+  font-size:        125%;
+}
